@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "Core": {
+      "name": "Core",
+      "isOrdered": true,
+      "folders": {
+        "Extensions": {
+          "name": "Extensions",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
+      "files": {}
+    }
+  },
+  "files": {
+    "README": 0
+  }
+}
