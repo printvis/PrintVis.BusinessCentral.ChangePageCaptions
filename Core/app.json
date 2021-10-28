@@ -1,0 +1,33 @@
+{
+  "id": "1b28bf02-1c4c-4ff0-bd29-9832142363e2",
+  "name": "Change PrintVis Page Captions Core",
+  "publisher": "Printvis",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "5452f323-059e-499a-9753-5d2c07eef904",
+      "name": "PrintVis",
+      "publisher": "NovaVision Software A/S",
+      "version": "18.2.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 59000,
+      "to": 60000
+    }
+  ],
+  "resourceExposurePolicy": {"allowDebugging": true, "allowDownloadingSource": true, "includeSourceInSymbolFile": true},
+  "runtime": "8.0",
+  "preprocessorSymbols": ["PerTenantExtension"]
+}
